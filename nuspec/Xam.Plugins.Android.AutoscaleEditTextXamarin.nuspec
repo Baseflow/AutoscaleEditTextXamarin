@@ -14,7 +14,7 @@
         <tags>xamarin, AutoscaleEditText, monodroid, C#, xamarin.android, android</tags>
     </metadata>
     <files>
-        <file src="..\AutoscaleEditText\bin\Release\AutoscaleEditText.dll" target="lib\MonoAndroid\AutoscaleEditText.dll" />
-        <file src="..\AutoscaleEditText\bin\Release\AutoscaleEditText.pdb" target="lib\MonoAndroid\AutoscaleEditText.pdb" />
+        <file src="..\AutoscaleEditTextXamarin\bin\Release\AutoscaleEditTextXamarin.dll" target="lib\MonoAndroid\AutoscaleEditTextXamarin.dll" />
+        <file src="..\AutoscaleEditTextXamarin\bin\Release\AutoscaleEditTextXamarin.pdb" target="lib\MonoAndroid\AutoscaleEditTextXamarin.pdb" />
     </files>
 </package>
