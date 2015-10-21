@@ -16,6 +16,8 @@ Documentation
 
 See the Sample app for more details.
 
+![](https://github.com/txusballesteros/AutosizeEditText/raw/master/assets/demo.gif)
+
 Acknowledgements
 =======
 
