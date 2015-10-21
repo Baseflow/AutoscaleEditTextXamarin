@@ -2,7 +2,7 @@
 
 Xamarin bindings for the AutoscaleEditText library for Android
 
-Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.VlcXamarin/)
+Plugin is available on [Nuget](https://www.nuget.org/packages/Xam.Plugins.Android.AutoscaleEditTextXamarin/)
 
 Documentation
 =============
