@@ -19,7 +19,7 @@ See the Sample app for more details.
 Acknowledgements
 =======
 
-* [txusballesteros](https://github.com/txusballesteros) for creating the library
+* [txusballesteros](https://github.com/txusballesteros) for creating the [library](https://github.com/txusballesteros/AutosizeEditText)
 
 License
 =======
